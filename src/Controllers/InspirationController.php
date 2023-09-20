@@ -7,10 +7,8 @@ use Bhagaskara\Inspire\Inspire;
 
 class InspirationController
 {
-    public function __invoke(Inspire $inspire)
+    public function index(Request $request)
     {
-        $quote = Inspire::justDoIt();
-
-        return view('inspire::index', compact('quote'));
+        return view('inspire::index', ['quote' => Inspire::justDoIt()]);
     }
 }
