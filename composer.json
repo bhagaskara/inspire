@@ -11,5 +11,12 @@
             "email": "bhagaskaraliancer@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bhagaskara\\Inspire\\Providers\\InspirationProvider"
+            ]
+        }
+    }
 }
