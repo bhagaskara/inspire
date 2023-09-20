@@ -1,0 +1,15 @@
+{
+    "name": "sis/inspire",
+    "autoload": {
+        "psr-4": {
+            "Sis\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhagaskara",
+            "email": "bhagaskaraliancer@gmail.com"
+        }
+    ],
+    "require": {}
+}
