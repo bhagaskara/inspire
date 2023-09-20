@@ -1,9 +1,9 @@
 <?php
 
-namespace Sis\Inspire\Controllers;
+namespace Bhagaskara\Inspire\Controllers;
 
 use Illuminate\Http\Request;
-use Sis\Inspire\Inspire;
+use Bhagaskara\Inspire\Inspire;
 
 class InspirationController
 {

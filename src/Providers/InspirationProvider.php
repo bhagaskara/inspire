@@ -1,6 +1,6 @@
 <?php
 
-namespace Sis\Inspire\Providers;
+namespace Bhagaskara\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

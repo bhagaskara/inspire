@@ -1,8 +1,8 @@
 {
-    "name": "sis/inspire",
+    "name": "bhagaskara/inspire",
     "autoload": {
         "psr-4": {
-            "Sis\\Inspire\\": "src/"
+            "Bhagaskara\\Inspire\\": "src/"
         }
     },
     "authors": [

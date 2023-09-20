@@ -1,6 +1,6 @@
 <?php
 
-namespace Sis\Inspire;
+namespace Bhagaskara\Inspire;
 
 class Inspire
 {
